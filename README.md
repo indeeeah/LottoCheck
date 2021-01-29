@@ -1,10 +1,10 @@
 # LottoCheck
 --------
 ## Contents
-1. 설계의 주안점
-2. Using
-3. LottoCheck 기능 설명
-4. 추후 구현 예정 기능
+1. [설계의 주안점](#설계의-주안점)
+2. [Using](#Using)
+3. [LottoCheck 기능 설명](#LottoCheck-기능-설명)
+4. [추후 구현 예정 기능](#추후-구현-예정-기능)
 --------
 ## 설계의 주안점
 1. Swing으로만 UI 구성
